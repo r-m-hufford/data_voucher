@@ -1,7 +1,7 @@
 {
   "name": "data-voucher",
   "version": "1.0.0",
-  "description": "",
+  "description": "A data validation tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/r-m-hufford/data_voucher.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["data", "data-voucher", "validation", "data-validation", "voucher"],
+  "author": "Ryan M Hufford",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/r-m-hufford/data_voucher/issues"
