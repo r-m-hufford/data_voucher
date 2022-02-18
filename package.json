@@ -10,11 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/r-m-hufford/data_voucher.git"
   },
-  "keywords": ["data", "data-voucher", "validation", "data-validation", "voucher"],
+  "keywords": [
+    "data",
+    "data-voucher",
+    "validation",
+    "data-validation",
+    "voucher"
+  ],
   "author": "Ryan M Hufford",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/r-m-hufford/data_voucher/issues"
   },
-  "homepage": "https://github.com/r-m-hufford/data_voucher#readme"
+  "homepage": "https://github.com/r-m-hufford/data_voucher#readme",
+  "engines": {
+    "node": "14.x"
+  }
 }
